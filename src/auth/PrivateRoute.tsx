@@ -1,0 +1,1 @@
+// Componente per route protette
